@@ -1,3 +1,0 @@
-/home/lucas/Escritorio/Orga/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/lucas/Escritorio/Orga/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/lucas/Escritorio/Orga/cmake-build-debug/CMakeFiles/Orga.dir

@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/Orga.dir/main.c.o CMakeFiles/Orga.dir/decimalABinario.c.o CMakeFiles/Orga.dir/2-68.c.o  -o Orga 
