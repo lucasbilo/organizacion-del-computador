@@ -1,1 +1,4 @@
-# Organización del computador - 2°C 2020.
+# Todo lo que use en Organizacion del Computador - Catedra Moreno - FIUBA.
+
+
+#Cursada virtualmente el 2° cuatrimestre de 2020.
